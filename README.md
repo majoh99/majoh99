@@ -21,7 +21,7 @@
     <td width="62%" valign="middle">
       <p>¡Hola! Soy <b>Mariam</b>, desarrolladora Frontend e Ingeniera de Sistemas con más de 6 años de experiencia creando aplicaciones web, plataformas administrativas, sitios corporativos y soluciones de comercio digital.</p>
       <ul>
-        <li>💻 Me especializo en <b>Vue.js</b>, <b>TypeScript</b> y <b>Quasar</b>.</li>
+        <li>💻 Me especializo en desarrollo frontend moderno con <b>TypeScript</b> y <b>JavaScript</b>, y me adapto a las herramientas que cada proyecto necesita.</li>
         <li>🎨 Diseño interfaces funcionales, accesibles y adaptables a cualquier dispositivo.</li>
         <li>🧩 Combino enfoque técnico y de producto para convertir procesos complejos en experiencias claras.</li>
         <li>🌱 Siempre aprendiendo y buscando mejores formas de construir productos.</li>
